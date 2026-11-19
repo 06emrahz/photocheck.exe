@@ -1,6 +1,6 @@
 # PhotoCheck
 
-**Görsel telif tescil ve doğrulama · Image copyright registration & verification**
+**Görsel sahiplik kaydı, sahiplik belgesi ve doğrulama · Image copyright registration & verification**
 
 PhotoCheck, fotoğraf ve görsellerinize sahiplik bilginizi şifreli ve dijital olarak imzalı biçimde gömer.
 Görsel nereye giderse gitsin, PhotoCheck ile sorgulandığında eser sahibini gösterir.
